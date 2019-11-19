@@ -3,7 +3,6 @@ class Post
   
   def initialize(title ="Hello World")
   @title = title
- 
- end
+  end
   
 end 
